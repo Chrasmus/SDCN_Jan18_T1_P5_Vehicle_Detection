@@ -1,4 +1,5 @@
 *.zip
-non_vehicles
+non-vehicles
 vehicles
 examples
+git_ignore_files
